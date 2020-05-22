@@ -2,7 +2,7 @@
 
 A small memory game I made as an android app. Add your name and play! 
 
-<img src="images/screenshot1.png" width="200" height="100"> <img src="images/screenshot.png" width="200" height="100">
+<img src="images/screenshot1.png" width="200" height="400"> <img src="images/screenshot.png" width="200" height="400">
 
 Works in landscape mode.
 
