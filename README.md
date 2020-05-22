@@ -2,6 +2,9 @@
 
 A small memory game I made as an android app. Add your name and play! 
 
+![images/screenshot1.png]  ![images/screenshot.png]
+
+
 Works in landscape mode.
 
 Source imatges: https://stlmotherhood.com/make-your-own-memory-game-free-printable/
