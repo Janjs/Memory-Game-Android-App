@@ -1,9 +1,11 @@
-# assignment-3-2018-Janjs
+# Memory Game - Android App
 
-by Jan Jiménez & David Junquero
+A small memory game I made as an android app. Add your name and play! 
 
-Comentari:
-  -Hem utilitzat Activities i no fragments, ja que opinem que els fragments s'han d'utilitzar per dividir una pantalla en diferentes parts, i com en aquest cas no existia aquesta divisió ja que hi han 3 pantalles molt diferenciades (Login, Joc, Resultats), hem pensat que tenia més sentit utilitzar 3 pantalles -> 3 activities.
+Works in landscape mode.
+
+Source imatges: https://stlmotherhood.com/make-your-own-memory-game-free-printable/
   
-  Source imatges: https://stlmotherhood.com/make-your-own-memory-game-free-printable/
+How to run: 
+ </br>-Just import it to Android Studio and run it! API 27
   
