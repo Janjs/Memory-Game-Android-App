@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="jimenezserrajan.test.mobileapps.tecnocampus.cat.practica3.activities.MainActivity">
+    <item
+        android:id="@+id/action_close"
+        android:orderInCategory="100"
+        android:title="@string/close_session"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_showresults"
+        android:orderInCategory="100"
+        android:title="@string/action_show_results"
+        app:showAsAction="never" />
+</menu>

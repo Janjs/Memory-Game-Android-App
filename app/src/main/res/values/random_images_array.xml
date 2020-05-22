@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cartesarray">
+        <item>@drawable/carta1</item>
+        <item>@drawable/carta2</item>
+        <item>@drawable/carta3</item>
+        <item>@drawable/carta4</item>
+        <item>@drawable/carta5</item>
+        <item>@drawable/carta6</item>
+        <item>@drawable/carta7</item>
+        <item>@drawable/carta8</item>
+    </array>
+
+</resources>

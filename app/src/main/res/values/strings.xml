@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="action_settings">Settings</string>
+    <string name="close_session">Tancar sessió</string>
+    <string name="action_show_results">Veure resultats</string>
+    <string name="title_activity_login">Practica3</string>
+    <string name="txt_nom">Nom:</string>
+    <string name="txt_parelles">Nº Parelles:</string>
+    <string name="btn_login">START GAME</string>
+    <string name="btn_resultats">VEURE RESULTATS</string>
+    <string name="resultats_titol">Resultats:</string>
+    <string name="nom_score">Nom: </string>
+</resources>
