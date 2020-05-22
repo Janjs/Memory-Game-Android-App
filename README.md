@@ -2,8 +2,7 @@
 
 A small memory game I made as an android app. Add your name and play! 
 
-![](images/screenshot1.png)  ![](images/screenshot.png)
-
+<img src="images/screenshot1.png" width="200" height="100"> <img src="images/screenshot.png" width="200" height="100">
 
 Works in landscape mode.
 
